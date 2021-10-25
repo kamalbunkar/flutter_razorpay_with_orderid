@@ -1,6 +1,8 @@
 # flutter_app_pay_razorpay
 
-A new Flutter application.
+Flutter razorpay integration using razorpay flutter plugin. The order id is compulsory to capture the payment automatically, so I have covered the Order Id API call as well in this code. 
+
+If this code helps you, Please give five star rating to this project.
 
 ## Getting Started
 
